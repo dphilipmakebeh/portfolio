@@ -160,3 +160,15 @@ h3, a{
 .contact-heading{
     margin-top: 30px;
 }
+
+/* Projects section */
+.android-list, 
+.web-list,
+.blockchain-list
+ {
+    list-style: none;
+}
+
+.personal-proj{
+    margin-bottom: 50px;
+}
